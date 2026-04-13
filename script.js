@@ -4,43 +4,43 @@ const tracks = [
     {
         title: "Low Tide",
         genre: "Deep House",
-        file: "https://raw.githubusercontent.com/glin/hammer-girl/main/tracks/low_tide.ogg",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/main/tracks/low_tide.ogg",
         description: "Sunset beach vibes, melodic chords"
     },
     {
         title: "Cut It",
         genre: "Drum & Bass",
-        file: "https://raw.githubusercontent.com/glin/hammer-girl/main/tracks/cut_it.ogg",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/main/tracks/cut_it.ogg",
         description: "Fast breakbeats, neurofunk bass"
     },
     {
         title: "Lifted Higher",
         genre: "Uplifting Trance",
-        file: "https://raw.githubusercontent.com/glin/hammer-girl/main/tracks/lifted_higher.ogg",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/main/tracks/lifted_higher.ogg",
         description: "Soaring synths, emotional buildups"
     },
     {
         title: "Low End",
         genre: "Dark Techno",
-        file: "https://raw.githubusercontent.com/glin/hammer-girl/main/tracks/low_end.ogg",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/main/tracks/low_end.ogg",
         description: "Berlin underground, hypnotic beat"
     },
     {
         title: "This Day",
         genre: "Happy EDM",
-        file: "https://raw.githubusercontent.com/glin/hammer-girl/main/tracks/this_day.ogg",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/main/tracks/this_day.ogg",
         description: "Summer vibes, celebration"
     },
     {
         title: "还是想你",
         genre: "Mandarin Pop",
-        file: "https://raw.githubusercontent.com/glin/hammer-girl/main/tracks/huan_xiang_ni.ogg",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/main/tracks/huan_xiang_ni.ogg",
         description: "Chinese pop, emotional ballad"
     },
     {
         title: "We Are The Bass Generation",
         genre: "Bass House",
-        file: "https://raw.githubusercontent.com/glin/hammer-girl/main/tracks/bass_generation.ogg",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/main/tracks/bass_generation.ogg",
         description: "Festival anthem, massive drop"
     }
 ];
