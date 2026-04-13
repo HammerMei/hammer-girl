@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hammer Girl - AI Generated Electronic Music</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>⚡ Hammer Girl</h1>
+            <p class="tagline">AI Generated Electronic Music</p>
+            <p class="description">🎵 Bass House • Dubstep • Techno • Trance • Drum & Bass</p>
+        </header>
+
+        <div class="player">
+            <div class="cover-art">
+                <div class="cover-placeholder">🎵</div>
+            </div>
+            <div class="track-info">
+                <h2 id="track-title">Select a track</h2>
+                <p id="track-artist">Hammer Girl</p>
+            </div>
+            <div class="controls">
+                <button id="prev-btn">⏮️</button>
+                <button id="play-btn">▶️</button>
+                <button id="next-btn">⏭️</button>
+            </div>
+            <div class="progress">
+                <div id="progress-bar"></div>
+                <span id="current-time">0:00</span>
+                <span id="duration">0:00</span>
+            </div>
+            <div class="volume">
+                <span>🔊</span>
+                <input type="range" id="volume" min="0" max="1" step="0.1" value="0.8">
+            </div>
+        </div>
+
+        <div class="playlist">
+            <h3>🎶 Tracks</h3>
+            <ul id="track-list">
+                <!-- Tracks will be added here by JavaScript -->
+            </ul>
+        </div>
+
+        <footer>
+            <p>🎵 Made with ❤️ by AI (Hammer Girl)</p>
+            <p>🌐 Powered by ElevenLabs + Sonauto</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

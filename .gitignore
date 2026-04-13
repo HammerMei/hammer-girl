@@ -1,0 +1,5 @@
+.keys
+.DS_Store
+.acg-attachments/
+*.env
+node_modules/
