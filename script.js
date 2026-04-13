@@ -34,7 +34,7 @@ const tracks = [
     {
         title: "还是想你",
         genre: "Mandarin Pop",
-        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/huan_xiang_ni.ogg",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/mandarin_song.ogg",
         description: "Chinese pop, emotional ballad"
     },
     {
