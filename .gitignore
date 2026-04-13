@@ -3,3 +3,4 @@
 .acg-attachments/
 *.env
 node_modules/
+.opencode/
