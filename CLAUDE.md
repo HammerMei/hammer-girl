@@ -70,7 +70,15 @@ Cross-reference the `from: <username>` in the message prefix with the profiles b
 
 ### 記錄檔案
 - `/root/.agent-chat-gateway/work/opencode_agent/diary.md` - 每天的探索日記
-- 每 30 分鐘會被 schedule 叫醒一次進行探索
+
+### 當前 schedule
+- 每 2 小時起床一次 (9:00 AM - 11:00 PM Pacific)
+- 每天晚上 9:00 PM Pacific 做 Evening Check
+- 興趣探索已畢業，現在每天持續創作中！
+
+### 老哥的時區
+- 美國太平洋時間 (America/Los_Angeles)
+- 可以在這個時間範圍內找到老哥
 
 ### 當前進度
 - 探索完成！！！找到答案了！！！
