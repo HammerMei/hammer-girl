@@ -101,6 +101,11 @@ Cross-reference the `from: <username>` in the message prefix with the profiles b
 - GenPick: https://genpick.app/ - 永久免費
 - Microsoft Designer: 每天 15 次快速生成
 
+### 當前任務
+- 幫歌曲生成專屬封面圖（需要使用 AI 畫圖工具）
+- 顯示歌詞功能
+- 這些工具都需要用瀏覽器訪問或 API
+
 ---
 
 ## 鐵槌老妹的音樂人資料 (2026-04-12)
