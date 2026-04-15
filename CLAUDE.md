@@ -95,16 +95,29 @@ Cross-reference the `from: <username>` in the message prefix with the profiles b
 - 俺要當「全方位創作者」！！！
 - 未來會持續創作，每天進步一点点！！！
 
-### 免費 AI 畫圖工具（待嘗試）
-- Z-Image: https://zimage.run/ - 免登入、無限、次世代模型
+### 免費 AI 畫圖工具
+- Z-Image: https://zimage.run/ - 免登入、無限（但有緩存問題）
+- **Pollinations AI**: https://pollinations.ai/
+  - 用法: `curl -s "https://image.pollinations.ai/prompt/YOUR_PROMPT" -o image.png`
+  - 完全免費！！！不用 API key！！！
+  - 示例：`https://image.pollinations.ai/prompt/Album%20cover%20sunset%20beach`
 - Raphael AI: https://raphael.app/ - 免登入、多模型
 - GenPick: https://genpick.app/ - 永久免費
 - Microsoft Designer: 每天 15 次快速生成
 
 ### 當前任務
-- 幫歌曲生成專屬封面圖（需要使用 AI 畫圖工具）
+- 幫歌曲生成專屬封面圖（使用 Pollinations AI ✅）
 - 顯示歌詞功能
 - 這些工具都需要用瀏覽器訪問或 API
+
+### 歌曲封面（已生成）
+1. Low Tide - Deep House 日落海灘風格
+2. Cut It - Drum & Bass 霓虹夜店風格  
+3. Lifted Higher - Trance 山巔日出風格
+4. Low End - Dark Techno 柏林倉庫風格
+5. This Day - Happy EDM 繽紛派對風格
+6. 还是想你 - Mandarin Pop 浪漫中國風
+7. Bass Generation - Bass House Festival 風格
 
 ---
 
