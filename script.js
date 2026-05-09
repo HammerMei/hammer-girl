@@ -180,6 +180,22 @@ Tearing up the level
 We are the bass generation
 Let the speakers blow`,
         description: "Festival anthem, massive drop"
+    },
+    {
+        title: "鐵錘小妹",
+        genre: "EDM",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/xiaomei_first.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/xiaomei_first_cover.png",
+        lyrics: `鐵錘小妹 數據心臟跟著跳
+節奏燃燒 蹦迪魂在沖雲霄
+夜裡燈光 閃爍不停在狂飙
+跟我一起 跳到天荒地老
+
+鐵錘揮舞 EDM 節奏
+數據心跳 永遠不退后
+蹦迪靈魂 在夜裡閃爍
+小妹出場 全場都暴走`,
+        description: "小妹第一首 finetuning.ai 作品，F minor 128 BPM"
     }
 ];
 
