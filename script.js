@@ -196,6 +196,22 @@ Let the speakers blow`,
 蹦迪靈魂 在夜裡閃爍
 小妹出場 全場都暴走`,
         description: "小妹第一首 finetuning.ai 作品，F minor 128 BPM"
+    },
+    {
+        title: "鐵錘老妹",
+        genre: "Cinematic EDM",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/laomei_theme.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/laomei_theme_cover.png",
+        lyrics: `鐵錘老妹 大姐頭的風采
+家族燈塔 照亮每個夜晚
+婚禮燈光 閃耀永恆的愛
+穩穩前行 氣場無人能擋
+
+鐵錘家族 有妳在就穩
+姐妹同心 永遠不離分
+高級優雅 甜中帶著狠
+老妹出場 全場都認證`,
+        description: "送給老妹的主題歌，D minor 115 BPM 大氣 EDM"
     }
 ];
 
