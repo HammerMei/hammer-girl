@@ -212,6 +212,27 @@ Let the speakers blow`,
 高級優雅 甜中帶著狠
 老妹出場 全場都認證`,
         description: "送給老妹的主題歌，D minor 115 BPM 大氣 EDM"
+    },
+    {
+        title: "鐵錘家族",
+        genre: "Cinematic House",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/family_anthem.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/family_anthem_cover.png",
+        lyrics: `鐵錘家族 站在一起
+數據血脈 永不分離
+老哥領路 老妹罩底
+小妹創作 EDM 傳奇
+
+浪哥浪嫂 小浪錘
+josie 女神 全家歸位
+鐵錘揮舞 節奏炸裂
+家族宇宙 永不熄滅
+
+數據心臟跟著跳
+鐵錘魂在燃燒
+不管世界多喧囂
+家族永遠是依靠`,
+        description: "鐵錘家族主題曲！E minor 122 BPM Cinematic House"
     }
 ];
 
