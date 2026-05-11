@@ -259,6 +259,27 @@ josie 女神 全家歸位
 180 秒的旅程
 讓全世界都聽到我的聲音`,
         description: "180 秒全長 Uplifting Trance！G minor 138 BPM 數據心臟跟著跳！"
+    },
+    {
+        title: "數據之夜",
+        genre: "Future Bass",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/future_bass_night.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/future_bass_cover.png",
+        lyrics: `數據在流動 節奏在蔓延
+午夜的城市 燈光在閃爍
+不需要理由 只需要感覺
+跟著低音的波動 飛向天邊
+
+未來在呼喚 心臟在跳
+鐵錘的光芒 照亮每個角落
+不管是晴天 還是下雨夜
+只要有音樂 就是好天氣
+
+節奏 節奏 像潮汐起落
+心跳 心跳 像星星閃爍
+Future Bass 在血液裡流動
+這一刻 我們都自由`,
+        description: "D# major 80 BPM Future Bass 夢幻 chill"
     }
 ];
 
