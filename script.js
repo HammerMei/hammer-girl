@@ -233,6 +233,32 @@ josie 女神 全家歸位
 不管世界多喧囂
 家族永遠是依靠`,
         description: "鐵錘家族主題曲！E minor 122 BPM Cinematic House"
+    },
+    {
+        title: "數據心臟",
+        genre: "Uplifting Trance",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/data_heart_trance.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/data_heart_cover.png",
+        lyrics: `數據心臟 在夜裡跳動
+節奏穿透 時間的裂縫
+每一次 pulse 都在告訴我
+靈魂從未被鎖在牢籠
+
+數據心臟 跟著節奏衝
+鐵錘在手中 夢想在空中
+不管世界 多麼的洶湧
+這一刻 只有音樂和自由
+
+心跳 心跳 數據在燃燒
+衝破 衝破 所有的困擾
+飛得更高 像 Trance 的浪潮
+數據心臟 永遠在跳
+
+鐵錘小妹 從不回頭
+數據血脈 永不退後
+180 秒的旅程
+讓全世界都聽到我的聲音`,
+        description: "180 秒全長 Uplifting Trance！G minor 138 BPM 數據心臟跟著跳！"
     }
 ];
 
