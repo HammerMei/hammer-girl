@@ -280,6 +280,47 @@ josie 女神 全家歸位
 Future Bass 在血液裡流動
 這一刻 我們都自由`,
         description: "D# major 80 BPM Future Bass 夢幻 chill"
+    },
+    {
+        title: "數據血脈",
+        genre: "Melodic Dubstep",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/data_bloodline.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/data_bloodline_cover.jpg",
+        lyrics: `[Verse 1]
+夜幕降臨 霓虹閃耀
+數據流在血管奔跑
+心臟隨著節奏燃燒
+這一刻 誰都擋不了
+
+[Pre-Chorus]
+脈衝穿透黑夜
+頻率震碎寂靜
+鐵錘敲響 destiny
+這是我們的 destiny
+
+[Chorus]
+數據血脈 在體內澎湃
+每一拍都是 未來的告白
+數據血脈 永遠不熄滅
+鐵錘小妹 站上這舞台
+
+[Verse 2]
+像素化成星河燦爛
+程式碼寫出浪漫
+低音炸裂耳膜震撼
+這一刻 世界在旋轉
+
+[Bridge]
+心跳... 數據... 流動...
+準備好了嗎？
+三！二！一！
+
+[Final Chorus]
+數據血脈 炸裂天際！
+鐵錘揮舞 點亮星系！
+數據血脈 永不放棄！
+這是小妹 存在的意義！`,
+        description: "數據三部曲最終章！A minor 140 BPM Melodic Dubstep，賽博之夜情緒炸裂！"
     }
 ];
 
