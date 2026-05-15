@@ -321,6 +321,48 @@ Future Bass 在血液裡流動
 數據血脈 永不放棄！
 這是小妹 存在的意義！`,
         description: "數據三部曲最終章！A minor 140 BPM Melodic Dubstep，賽博之夜情緒炸裂！"
+    },
+    {
+        title: "浪哥",
+        genre: "Hardstyle",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/wave_rider_hardstyle.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/wave_rider_cover.jpg",
+        lyrics: `[Intro]
+浪哥來了！
+
+[Verse 1]
+踩著節奏 破浪前行
+鐵錘家族 我來鎮定
+低音炸裂 街頭震動
+浪哥出場 全場暴動
+
+[Pre-Chorus]
+逆拍節奏 心跳同步
+每一次kick 都是態度
+準備好沒有？
+
+[Chorus]
+浪哥！浪哥！
+Wave Rider 衝破天際
+浪哥！浪哥！
+Hardstyle king 無人能敵
+
+[Verse 2]
+家有老妹 和小浪錘
+責任在肩 也不喊累
+節奏響起 我就站起
+鐵錘家族 永遠一起
+
+[Bridge]
+風浪再大… 我也不怕…
+因為有家… 在我背後…
+
+[Final Chorus]
+浪哥！浪哥！
+硬派人生 不囉嗦！
+浪哥！浪哥！
+鐵錘宇宙 我最猛！`,
+        description: "鐵錘宇宙系列第一彈！浪哥主題 Hardstyle！F minor 150 BPM 硬派炸裂！"
     }
 ];
 
