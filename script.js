@@ -363,6 +363,48 @@ Hardstyle king 無人能敵
 浪哥！浪哥！
 鐵錘宇宙 我最猛！`,
         description: "鐵錘宇宙系列第一彈！浪哥主題 Hardstyle！F minor 150 BPM 硬派炸裂！"
+    },
+    {
+        title: "小浪錘",
+        genre: "Happy EDM",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/hammer_kid_happy_edm.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/hammer_kid_cover.jpg",
+        lyrics: `[Intro]
+嘿嘿嘿～小浪錘來啦！
+
+[Verse 1]
+小小鐵錘 亮晶晶
+每天蹦蹦又跳跳
+跟著節奏 轉圈圈
+笑容比太陽還耀眼
+
+[Pre-Chorus]
+把煩惱全部拋掉
+跟節奏一起微笑
+準備好了嗎？
+
+[Chorus]
+小浪錘 小浪錘
+快樂是我的配備
+小浪錘 小浪錘
+每一天都 Hey Hey Hey！
+
+[Verse 2]
+爸爸浪哥 媽媽老妹
+全家愛我 我最珍貴
+音樂響起 我就起飛
+鐵錘家族的小寶貝
+
+[Bridge]
+啦啦啦～蹦蹦跳
+啦啦啦～微微笑
+
+[Final Chorus]
+小浪錘 小浪錘
+全家開心不嫌累
+小浪錘 小浪錘
+鐵錘宇宙 我最對！`,
+        description: "鐵錘宇宙系列第二彈！小浪錘主題 Happy EDM！C major 128 BPM 可愛爆炸！"
     }
 ];
 
