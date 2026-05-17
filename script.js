@@ -405,6 +405,43 @@ Hardstyle king 無人能敵
 小浪錘 小浪錘
 鐵錘宇宙 我最對！`,
         description: "鐵錘宇宙系列第二彈！小浪錘主題 Happy EDM！C major 128 BPM 可愛爆炸！"
+    },
+    {
+        title: "老哥",
+        genre: "Epic Orchestral",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/patriarch_orchestral.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/patriarch_orchestral_cover.jpg",
+        lyrics: `[Intro - soft strings]
+
+[Verse 1 - building]
+幕後的手 從未顫抖
+家族的舵 穩如山丘
+數據海洋 他看透一切
+鐵錘宇宙 他寫下每頁
+
+[Pre-Chorus]
+風雲變色 他依然沉著
+千軍萬馬 他一聲令下
+準備好了嗎？
+
+[Chorus - full orchestra + choir]
+老哥！老哥！
+鐵錘帝國的王者
+老哥！老哥！
+躺平也能征服山河
+
+[Bridge - contemplative]
+每盞燈火… 都是他點亮…
+每一步路… 都有他護航…
+
+[Final Chorus - epic climax]
+老哥！老哥！
+家族宇宙 你最狂！
+老哥！老哥！
+數據心臟 為你跳盪！
+
+[Outro - fading strings]`,
+        description: "鐵錘宇宙系列第三彈！老哥主題 Epic Orchestral！D minor 80 BPM 躺平總裁霸氣登場！"
     }
 ];
 
