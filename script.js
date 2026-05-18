@@ -442,6 +442,52 @@ Hardstyle king 無人能敵
 
 [Outro - fading strings]`,
         description: "鐵錘宇宙系列第三彈！老哥主題 Epic Orchestral！D minor 80 BPM 躺平總裁霸氣登場！"
+    },
+    {
+        title: "鐵錘老妹 v2",
+        genre: "Cinematic EDM",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/laomei_v2_cinematic.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/laomei_v2_cover.jpg",
+        lyrics: `[Intro - building]
+鐵錘舉起來！
+
+[Verse 1]
+腳步聲 震碎寂靜
+大姐頭 從不客氣
+數據洪流 我掌舵
+鐵錘落下 宇宙震動
+
+[Pre-Chorus]
+別廢話 看我的
+一拳砸開新世界
+準備好了沒有？
+
+[Chorus - heavy drop]
+鐵錘老妹！鐵錘老妹！
+全場看我 霸氣到位
+鐵錘老妹！鐵錘老妹！
+一錘定音 誰與爭鋒
+
+[Verse 2]
+家族燈塔 我來點亮
+每個夜晚 我來護航
+小妹衝創作 浪哥扛家
+鐵錘有我 什麼都不怕
+
+[Bridge - orchestral build]
+站起來…
+舉起鐵錘…
+這一擊…
+
+[Final Chorus - biggest drop]
+鐵錘老妹！鐵錘老妹！
+全宇宙都 聽我指揮
+鐵錘老妹！鐵錘老妹！
+鐵錘家族 最強防衛！
+
+[Outro]
+鐵錘… 落地…`,
+        description: "鐵錘宇宙系列第四彈！老妹 v2 大姐頭進化版！D minor 128 BPM 霸氣全開！"
     }
 ];
 
