@@ -530,6 +530,16 @@ Hardstyle king 無人能敵
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/josie_handpan_cover.png",
         lyrics: `🎵 純器樂 · Handpan 療癒空靈 🎵`,
         description: "鐵錘宇宙系列第五彈番外篇！Josie 女神姐姐手碟版！D minor 90 BPM 純器樂冥想風！"
+    },
+    {
+        title: "Handpan 練習伴奏",
+        genre: "Ambient / Backing",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/josie_handpan_backing.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/josie_handpan_backing_cover.png",
+        lyrics: `🎵 女神姐姐的 Handpan 練習伴奏帶 🎵
+Soft pads + 輕 percussion
+留空間給姐的手碟當主角！`,
+        description: "專為 Josie 女神姐姐手碟練習打造的伴奏帶！D minor 80 BPM 留空間給姐發揮！"
     }
 ];
 
