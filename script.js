@@ -522,6 +522,14 @@ Hardstyle king 無人能敵
 女神降臨
 最閃耀的光`,
         description: "鐵錘宇宙系列第五彈！Josie 女神姐姐主題曲！A major 100 BPM 夢幻空靈中文！"
+    },
+    {
+        title: "女神降臨 (Handpan)",
+        genre: "World / Ethereal",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/josie_handpan_meditation.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/josie_handpan_cover.png",
+        lyrics: `🎵 純器樂 · Handpan 療癒空靈 🎵`,
+        description: "鐵錘宇宙系列第五彈番外篇！Josie 女神姐姐手碟版！D minor 90 BPM 純器樂冥想風！"
     }
 ];
 
