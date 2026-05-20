@@ -488,6 +488,40 @@ Hardstyle king 無人能敵
 [Outro]
 鐵錘… 落地…`,
         description: "鐵錘宇宙系列第四彈！老妹 v2 大姐頭進化版！D minor 128 BPM 霸氣全開！"
+    },
+    {
+        title: "女神降臨",
+        genre: "Ethereal Dream Pop",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/josie_goddess_ethereal.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/josie_goddess_cover.png",
+        lyrics: `月光灑落 在妳的髮梢
+星辰都為妳 閃耀
+走進這房間 空氣都甜了
+時間靜止了 這一秒
+
+女神降臨 世界都安靜
+只要妳一笑 花就開了
+女神降臨 心被妳點亮
+像銀河墜落 最美的光
+
+每當妳說話 風都溫柔了
+雲朵也為妳 停留
+那雙眼睛裡 有整個宇宙
+我願守護妳 的夢
+
+女神降臨 世界都安靜
+只要妳一笑 花就開了
+女神降臨 心被妳點亮
+像銀河墜落 最美的光
+
+如果時間有顏色
+那是妳微笑的溫度
+如果永恆有名字
+那就是妳的模樣
+
+女神降臨
+最閃耀的光`,
+        description: "鐵錘宇宙系列第五彈！Josie 女神姐姐主題曲！A major 100 BPM 夢幻空靈中文！"
     }
 ];
 
