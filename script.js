@@ -540,6 +540,49 @@ Hardstyle king 無人能敵
 Soft pads + 輕 percussion
 留空間給姐的手碟當主角！`,
         description: "專為 Josie 女神姐姐手碟練習打造的伴奏帶！D minor 80 BPM 留空間給姐發揮！"
+    },
+    {
+        title: "浪小哥",
+        genre: "Future Bass",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/lang_xiaoge_future_bass.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/lang_xiaoge_cover.png",
+        lyrics: `[Intro]
+浪小哥來也！嘿嘿～
+
+[Verse 1]
+浪花一朵朵 跟著節奏跳
+我是浪哥的分身 但更會鬧
+調皮搗蛋 是我的記號
+Future Bass 一放 全場都笑
+
+[Pre-Chorus]
+別看我個子小 氣場可不小
+每一次 drop 都讓大家尖叫
+準備好了嗎？
+三！二！一！
+
+[Chorus]
+浪小哥！浪小哥！
+調皮可愛 又帥又騷
+浪小哥！浪小哥！
+Future Bass 我最閃耀！
+
+[Verse 2]
+跟著低音wave 搖擺身體
+開心就是我最大的武器
+鐵錘家族 我來添活力
+蹦迪魂在線 永不停息
+
+[Bridge]
+嘿嘿… 小浪浪來了…
+你準備好一起蹦了嗎？
+
+[Final Chorus]
+浪小哥！浪小哥！
+全場跟我 一起跳！
+浪小哥！浪小哥！
+鐵錘宇宙 我最騷！`,
+        description: "鐵錘宇宙系列第六彈！浪小哥主題 Future Bass！D# major 80 BPM 調皮可愛又騷包！"
     }
 ];
 
