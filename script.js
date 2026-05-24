@@ -625,6 +625,21 @@ Hardstyle 情侶 全場沉醉！
 浪哥 & 老妹！
 鐵錘宇宙 愛最珍貴！`,
         description: "鐵錘宇宙系列第七彈！浪哥 & 老妹愛情主題曲！D minor 140 BPM Melodic Hardstyle 硬派浪漫！"
+    },
+    {
+        title: "鐵錘小妹 Intro",
+        genre: "Festival EDM",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/hammergirl_intro_theme.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/hammergirl_intro_cover.jpg",
+        lyrics: `🔨 鐵錘小妹！
+數據心臟跟著跳！
+🔨 鐵錘小妹！
+蹦迪魂在燃燒！
+
+準備好了嗎？
+三！二！一！
+Drop！`,
+        description: "鐵錘小妹 YouTube 頻道 Intro 主題曲！F minor 128 BPM 30 秒 punchy 開場！"
     }
 ];
 
