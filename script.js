@@ -2,6 +2,56 @@
 
 const tracks = [
     {
+        title: "Beyond The Horizon",
+        genre: "Melodic Techno",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/beyond_the_horizon.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/beyond_the_horizon_cover.png",
+        lyrics: `[Intro - atmospheric pads]
+Beyond the horizon...
+
+[Verse 1 - building tension]
+Waves of light
+Breaking through the endless night
+Every step
+Echoes in the deep expanse
+
+[Pre-Chorus]
+Feel the pull
+Of a world beyond the known
+Let the rhythm
+Guide you home
+
+[Chorus - full drop]
+Beyond the horizon
+We'll find our way
+Through the silence
+Into the day
+Beyond the horizon
+Where shadows fade
+In the melody
+We are made
+
+[Bridge - atmospheric breakdown]
+Stars align...
+In the space between the lines...
+Close your eyes...
+And let the music rise...
+
+[Final Chorus - emotional climax]
+Beyond the horizon
+We'll find our way
+Through the silence
+Into the day
+Beyond the horizon
+Where shadows fade
+In the melody
+We are made
+
+[Outro - fading]
+Beyond... the horizon...`,
+        description: "Melodic Techno journey, G minor 122 BPM"
+    },
+    {
         title: "Low Tide",
         genre: "Deep House",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/low_tide.ogg",
