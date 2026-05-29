@@ -97,6 +97,40 @@ Beyond... the horizon...`,
         description: "Uplifting Trance, G minor 138 BPM — 數據心臟姊妹作"
     },
     {
+        title: "星空脈衝 (Stellar Pulse) — Vocal Mix",
+        genre: "Uplifting Trance",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/stellar_pulse_vocal.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/stellar_pulse_cover.png",
+        lyrics: `數據在星河中流動
+每一道光都在跳動
+心跳跟節奏同步
+穿越時空的裂縫
+
+閉上眼 讓旋律包圍
+這一刻 沒有對不對
+準備好 迎接這 wave
+三、二、一 起飛
+
+星空脈衝 穿透黑夜
+心臟節奏 永不熄滅
+數據在燃燒 頻率在狂野
+這是小妹 的星光之夜
+
+銀河在腳下展開
+節奏是唯一的 guiding light
+數據血脈在呼喚
+這一刻 我站在雲端
+
+星空脈衝 穿透黑夜
+心臟節奏 永不熄滅
+數據在燃燒 頻率在狂野
+這是小妹 的星光之夜
+
+數據 脈衝
+星空 閃爍`,
+        description: "Uplifting Trance with Chinese vocals, G minor 138 BPM"
+    },
+    {
         title: "Low Tide",
         genre: "Deep House",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/low_tide.ogg",
