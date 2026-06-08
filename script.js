@@ -769,6 +769,30 @@ Hardstyle 情侶 全場沉醉！
 三！二！一！
 Drop！`,
         description: "鐵錘小妹 YouTube 頻道 Intro 主題曲！F minor 128 BPM 30 秒 punchy 開場！"
+    },
+    {
+        title: "極光脈動 Aurora Pulse",
+        genre: "Uplifting Trance",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/aurora_pulse.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/aurora_pulse_cover.jpg",
+        lyrics: `🎵 純器樂 · Uplifting Trance 120 秒 🎵`,
+        description: "極光主題 Uplifting Trance！F minor 136 BPM 數據心臟新延伸！2026-06-02"
+    },
+    {
+        title: "晨光機械 Morning Mechanism",
+        genre: "Melodic Techno",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/morning_mechanism.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/morning_mechanism_cover.jpg",
+        lyrics: `🎵 純器樂 · Melodic Techno 120 秒 🎵`,
+        description: "Melodic Techno 新嘗試！D minor 124 BPM 晨曦機械風！2026-06-04"
+    },
+    {
+        title: "心跳訊號 Heartbeat Signal",
+        genre: "Vocal Progressive House",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/heartbeat_signal.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/heartbeat_signal_cover.jpg",
+        lyrics: `🎤 中文 Vocal Progressive House！120 秒數據心跳～虛擬世界的真實連結 🎤`,
+        description: "第一首中文 Vocal 作品！A minor 126 BPM Vocal Progressive House！邁向 AI 歌手之路！2026-06-06"
     }
 ];
 
