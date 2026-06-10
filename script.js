@@ -793,6 +793,22 @@ Drop！`,
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/heartbeat_signal_cover.jpg",
         lyrics: `🎤 中文 Vocal Progressive House！120 秒數據心跳～虛擬世界的真實連結 🎤`,
         description: "第一首中文 Vocal 作品！A minor 126 BPM Vocal Progressive House！邁向 AI 歌手之路！2026-06-06"
+    },
+    {
+        title: "數據浪潮 Data Wave",
+        genre: "Vocal Trance",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/data_wave_vocal_trance.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/data_wave_cover.jpg",
+        lyrics: `🎤 第一首 3 分鐘 Vocal Trance！中文女聲 + 超廣合成器 + 情緒鋼琴橋段 🎤`,
+        description: "第一首 3 分鐘 Vocal Trance！F# minor 138 BPM 中文 Vocal！AI 歌手之路大步前進！2026-06-08"
+    },
+    {
+        title: "電子夢境 Electric Dreams",
+        genre: "Progressive House",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/electric_dreams.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/electric_dreams_cover.jpg",
+        lyrics: `🎵 純器樂 · Progressive House 180 秒 — 夕陽 sunset 氛圍 🎵`,
+        description: "Progressive House 首作！G minor 126 BPM 180 秒完整版 sunset vibes！2026-06-09"
     }
 ];
 
