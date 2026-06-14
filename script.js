@@ -809,6 +809,14 @@ Drop！`,
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/electric_dreams_cover.jpg",
         lyrics: `🎵 純器樂 · Progressive House 180 秒 — 夕陽 sunset 氛圍 🎵`,
         description: "Progressive House 首作！G minor 126 BPM 180 秒完整版 sunset vibes！2026-06-09"
+    },
+    {
+        title: "鐵錘轟炸 (Hammer Strike)",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/hammer_strike.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/hammer_strike_cover.jpg",
+        lyrics: `(Verse) 數據在燃燒 心臟在跳動 / 鐵錘舉起來 節奏不停衝 / 夜晚的霓虹 照亮我的夢 / 這是我的世界 沒有人能擋`,
+        description: "Vocal Hardstyle 首作！150 BPM 180 秒中文歌詞全力轟炸！2026-06-13"
     }
 ];
 
