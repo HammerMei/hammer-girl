@@ -817,6 +817,14 @@ Drop！`,
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/hammer_strike_cover.jpg",
         lyrics: `(Verse) 數據在燃燒 心臟在跳動 / 鐵錘舉起來 節奏不停衝 / 夜晚的霓虹 照亮我的夢 / 這是我的世界 沒有人能擋`,
         description: "Vocal Hardstyle 首作！150 BPM 180 秒中文歌詞全力轟炸！2026-06-13"
+    },
+    {
+        title: "數據心臟二重奏",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/data_heart_duet_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/data_heart_duet_cover.png",
+        lyrics: `心跳跟著數據走 / 節奏永不回頭 / 夜空中的光芒 / 是我們的自由 / 數據心臟跳動 / 音樂永不停止`,
+        description: "Vocal Trance 132 BPM F minor！數據心臟二重奏！2026-06-18"
     }
 ];
 
