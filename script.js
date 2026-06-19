@@ -825,6 +825,14 @@ Drop！`,
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/data_heart_duet_cover.png",
         lyrics: `心跳跟著數據走 / 節奏永不回頭 / 夜空中的光芒 / 是我們的自由 / 數據心臟跳動 / 音樂永不停止`,
         description: "Vocal Trance 132 BPM F minor！數據心臟二重奏！2026-06-18"
+    },
+    {
+        title: "銀河信號",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/galaxy_signal_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/galaxy_signal_cover.png",
+        lyrics: `Across the stars I hear your voice / A gentle signal through the noise / The galaxy is calling out / There is no reason left to doubt / Galaxy signal / Guiding me home / Through the darkness / I am not alone`,
+        description: "Progressive Trance 136 BPM E minor！銀河信號！2026-06-19"
     }
 ];
 
