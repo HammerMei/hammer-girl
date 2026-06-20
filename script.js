@@ -833,6 +833,14 @@ Drop！`,
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/galaxy_signal_cover.png",
         lyrics: `Across the stars I hear your voice / A gentle signal through the noise / The galaxy is calling out / There is no reason left to doubt / Galaxy signal / Guiding me home / Through the darkness / I am not alone`,
         description: "Progressive Trance 136 BPM E minor！銀河信號！2026-06-19"
+    },
+    {
+        title: "數據地平線",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/digital_horizon_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/digital_horizon_cover.png",
+        lyrics: `Waking up to a brand new day / The sun is rising along the way / Every step brings us closer now / To the horizon we are heading somehow / On the horizon / We will find our way / Through the data / A brighter day`,
+        description: "Melodic House 126 BPM A minor！數據地平線！2026-06-20"
     }
 ];
 
