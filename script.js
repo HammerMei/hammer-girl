@@ -841,6 +841,14 @@ Drop！`,
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/digital_horizon_cover.png",
         lyrics: `Waking up to a brand new day / The sun is rising along the way / Every step brings us closer now / To the horizon we are heading somehow / On the horizon / We will find our way / Through the data / A brighter day`,
         description: "Melodic House 126 BPM A minor！數據地平線！2026-06-20"
+    },
+    {
+        title: "午夜信號",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/midnight_signal_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/midnight_signal_cover.png",
+        lyrics: `Neon lights across the bay / Gentle rhythm carries me away / Summer night so warm and deep / Promises the night will keep / Midnight signals in the air / Distant echoes everywhere / Waves are crashing on the shore / I don't need nothing more`,
+        description: "Deep House 120 BPM C minor！午夜信號！2026-06-21"
     }
 ];
 
