@@ -849,6 +849,14 @@ Drop！`,
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/midnight_signal_cover.png",
         lyrics: `Neon lights across the bay / Gentle rhythm carries me away / Summer night so warm and deep / Promises the night will keep / Midnight signals in the air / Distant echoes everywhere / Waves are crashing on the shore / I don't need nothing more`,
         description: "Deep House 120 BPM C minor！午夜信號！2026-06-21"
+    },
+    {
+        title: "星塵",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/stardust_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/stardust_cover.png",
+        lyrics: `In the silence of the stars / I can feel you from afar / Every heartbeat leaves a mark / Burning brightly in the dark / We are stardust / We are light / Burning through the endless night / We are stardust / We are free / Dancing through eternity`,
+        description: "Melodic Dubstep 140 BPM D minor！星塵！2026-06-22"
     }
 ];
 
