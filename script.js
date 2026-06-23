@@ -857,6 +857,14 @@ Drop！`,
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/stardust_cover.png",
         lyrics: `In the silence of the stars / I can feel you from afar / Every heartbeat leaves a mark / Burning brightly in the dark / We are stardust / We are light / Burning through the endless night / We are stardust / We are free / Dancing through eternity`,
         description: "Melodic Dubstep 140 BPM D minor！星塵！2026-06-22"
+    },
+    {
+        title: "霓虹機器",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/neon_machine_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/neon_machine_cover.png",
+        lyrics: `純演奏 Instrumental — Melodic Techno`,
+        description: "Melodic Techno 124 BPM G minor！純演奏Instrumental！2026-06-23"
     }
 ];
 
