@@ -865,6 +865,14 @@ Drop！`,
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/neon_machine_cover.png",
         lyrics: `純演奏 Instrumental — Melodic Techno`,
         description: "Melodic Techno 124 BPM G minor！純演奏Instrumental！2026-06-23"
+    },
+    {
+        title: "數據天空",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/data_sky_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/data_sky_cover.png",
+        lyrics: `飛越數據的海洋 / 追逐心中的光芒 / 每一步都是力量 / 每一刻都在發光 / 飛翔吧 / 在數據的天空 / 跳動吧 / 跟隨這節奏 / 燃燒吧 / 夢想的光芒 / 這世界 / 屬於我們`,
+        description: "Uplifting Vocal Trance 138 BPM A minor！數據天空！2026-06-24"
     }
 ];
 
