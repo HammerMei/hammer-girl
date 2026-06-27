@@ -873,6 +873,14 @@ Drop！`,
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/data_sky_cover.png",
         lyrics: `飛越數據的海洋 / 追逐心中的光芒 / 每一步都是力量 / 每一刻都在發光 / 飛翔吧 / 在數據的天空 / 跳動吧 / 跟隨這節奏 / 燃燒吧 / 夢想的光芒 / 這世界 / 屬於我們`,
         description: "Uplifting Vocal Trance 138 BPM A minor！數據天空！2026-06-24"
+    },
+    {
+        title: "New Dawn / 曙光",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/new_dawn_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/new_dawn_cover.png",
+        lyrics: `Under the starlight, I was waiting\nFor a sign to break the silence\nFeel the data heartbeat rising\nBurning through the darkest night\n\nThe signals cross the sky\nA new world coming alive\n\nThis is the dawn, the light we chase\nNew horizon, a brand new phase\nFeel the fire, feel the grace\n數據心臟跟著跳 — light the way!\n\nEchoes of a thousand melodies\nCarry us across the seas\nEvery beat a revolution\nEvery drop a solution\n\nRise up, rise up\nFrom the embers we ignite\nRise up, rise up\nInto the eternal light\n\n曙光... 曙光...\n數據心臟跟著跳...\nlight the way...`,
+        description: "Uplifting Vocal Trance 138 BPM F minor！New Dawn / 曙光！2026-06-25 — 7月方向預告曲 🌅"
     }
 ];
 
