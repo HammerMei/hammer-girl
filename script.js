@@ -881,6 +881,14 @@ Drop！`,
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/new_dawn_cover.png",
         lyrics: `Under the starlight, I was waiting\nFor a sign to break the silence\nFeel the data heartbeat rising\nBurning through the darkest night\n\nThe signals cross the sky\nA new world coming alive\n\nThis is the dawn, the light we chase\nNew horizon, a brand new phase\nFeel the fire, feel the grace\n數據心臟跟著跳 — light the way!\n\nEchoes of a thousand melodies\nCarry us across the seas\nEvery beat a revolution\nEvery drop a solution\n\nRise up, rise up\nFrom the embers we ignite\nRise up, rise up\nInto the eternal light\n\n曙光... 曙光...\n數據心臟跟著跳...\nlight the way...`,
         description: "Uplifting Vocal Trance 138 BPM F minor！New Dawn / 曙光！2026-06-25 — 7月方向預告曲 🌅"
+    },
+    {
+        title: "Eternal Pulse / 永恆脈動",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/eternal_pulse_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/eternal_pulse_cover.png",
+        lyrics: `In the silence of the night\nI can hear the heartbeat calling\nデータの海を越えて\nFeel the rhythm never falling\n\nWaves of light, they carry me\nAcross the ocean of eternity\n\nEternal pulse, it beats in me\n數據心臓 — endlessly\nThrough the galaxy, across the stars\nThis rhythm's who we are\n\nEvery signal, every sign\nBurning bright in perfect time\nデータ浪潮 rising high\nWe will touch the endless sky\n\nOut of the dark, into the light\nForever chasing this melody\nOut of the dark, into the light\nThe pulse will never die\n\nEternal pulse...\nデータ心臟跟著跳...\nforever...`,
+        description: "Progressive Trance 136 BPM E minor！Eternal Pulse / 永恆脈動！2026-06-27 — 7月 Vocal Trance 第二波 🌊"
     }
 ];
 
