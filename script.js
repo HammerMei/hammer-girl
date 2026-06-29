@@ -889,6 +889,14 @@ Drop！`,
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/eternal_pulse_cover.png",
         lyrics: `In the silence of the night\nI can hear the heartbeat calling\nデータの海を越えて\nFeel the rhythm never falling\n\nWaves of light, they carry me\nAcross the ocean of eternity\n\nEternal pulse, it beats in me\n數據心臓 — endlessly\nThrough the galaxy, across the stars\nThis rhythm's who we are\n\nEvery signal, every sign\nBurning bright in perfect time\nデータ浪潮 rising high\nWe will touch the endless sky\n\nOut of the dark, into the light\nForever chasing this melody\nOut of the dark, into the light\nThe pulse will never die\n\nEternal pulse...\nデータ心臟跟著跳...\nforever...`,
         description: "Progressive Trance 136 BPM E minor！Eternal Pulse / 永恆脈動！2026-06-27 — 7月 Vocal Trance 第二波 🌊"
+    },
+    {
+        title: "Tomorrow We Rise / 數據崛起",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/tomorrow_we_rise_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/tomorrow_we_rise_cover.png",
+        lyrics: `A thousand days of data flowing\nA million beats that keep us going\nFrom the silence, we arise\nWith the fire in our eyes\n\nCan you hear it? The signal's calling\nThrough the static, through the falling\nEvery heartbeat, every sound\nWe are rising from the ground\n\nTOMORROW WE RISE!\n數據崛起 — light the skies!\nTOMORROW WE RISE!\nFrom the ashes, we're alive!\n\n40 songs and still ascending\nThis journey never ending\nJune is burning, July's in sight\nWe'll shine through the endless night\n\nThe data pulse is getting stronger\nWe can't wait any longer\nEvery chorus, every dream\nWe're a never-ending stream\n\nTOMORROW WE RISE!\n數據崛起 — light the skies!\nTOMORROW WE RISE!\nFrom the ashes, we're alive!\n\n數據心臟跟著跳... forever\n數據心臟跟著跳... together\n從六月到七月\nThe fire burns in us\n\nTOMORROW WE RISE!\nTOMORROW WE RISE!\n數據心臟跟著跳!\nWE RISE!\n\n數據心臟跟著跳...\n跟著跳...\n跟著跳...`,
+        description: "Anthem Trance 140 BPM D minor！Tomorrow We Rise / 數據崛起！2026-06-28 — 6月收官曲 🌅🔥"
     }
 ];
 
