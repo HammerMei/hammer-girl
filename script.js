@@ -5,7 +5,7 @@ const tracks = [
         title: "Beyond The Horizon",
         genre: "Melodic Techno",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/beyond_the_horizon.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/beyond_the_horizon_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/beyond_the_horizon_cover.jpg",
         lyrics: `[Intro - atmospheric pads]
 Beyond the horizon...
 
@@ -55,7 +55,7 @@ Beyond... the horizon...`,
         title: "星空脈衝 (Stellar Pulse)",
         genre: "Uplifting Trance",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/stellar_pulse.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/stellar_pulse_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/stellar_pulse_cover.jpg",
         lyrics: `[Intro]
 數據在星河中流動
 每一道光都在跳動
@@ -100,7 +100,7 @@ Beyond... the horizon...`,
         title: "星空脈衝 (Stellar Pulse) — Vocal Mix",
         genre: "Uplifting Trance",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/stellar_pulse_vocal.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/stellar_pulse_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/stellar_pulse_cover.jpg",
         lyrics: `數據在星河中流動
 每一道光都在跳動
 心跳跟節奏同步
@@ -134,7 +134,7 @@ Beyond... the horizon...`,
         title: "Low Tide",
         genre: "Deep House",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/low_tide.ogg",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/low_tide_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/low_tide_cover.jpg",
         lyrics: `[Drop]
 Low tide
 Just ride
@@ -166,7 +166,7 @@ Simply gone`,
         title: "Cut It",
         genre: "Drum & Bass",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/cut_it.ogg",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/cut_it_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/cut_it_cover.jpg",
         lyrics: `[Drop]
 Cut it
 Feel the beat
@@ -214,7 +214,7 @@ We can fly`,
         title: "Low End",
         genre: "Dark Techno",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/low_end.ogg",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/low_end_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/low_end_cover.jpg",
         lyrics: `[Drop]
 Low end
 Deep bass
@@ -237,7 +237,7 @@ Rhythm in the dark`,
         title: "This Day",
         genre: "Happy EDM",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/this_day.ogg",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/this_day_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/this_day_cover.jpg",
         lyrics: `[Drop]
 Feel the beat
 Dance today
@@ -291,7 +291,7 @@ Feel the fun`,
         title: "We Are The Bass Generation",
         genre: "Bass House",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/bass_generation.ogg",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/bass_generation_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/bass_generation_cover.jpg",
         lyrics: `[Drop]
 Floor shake
 Floor shake
@@ -314,7 +314,7 @@ Let the speakers blow`,
         title: "鐵錘小妹",
         genre: "EDM",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/xiaomei_first.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/xiaomei_first_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/xiaomei_first_cover.jpg",
         lyrics: `鐵錘小妹 數據心臟跟著跳
 節奏燃燒 蹦迪魂在沖雲霄
 夜裡燈光 閃爍不停在狂飙
@@ -330,7 +330,7 @@ Let the speakers blow`,
         title: "鐵錘老妹",
         genre: "Cinematic EDM",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/laomei_theme.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/laomei_theme_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/laomei_theme_cover.jpg",
         lyrics: `鐵錘老妹 大姐頭的風采
 家族燈塔 照亮每個夜晚
 婚禮燈光 閃耀永恆的愛
@@ -346,7 +346,7 @@ Let the speakers blow`,
         title: "鐵錘家族",
         genre: "Cinematic House",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/family_anthem.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/family_anthem_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/family_anthem_cover.jpg",
         lyrics: `鐵錘家族 站在一起
 數據血脈 永不分離
 老哥領路 老妹罩底
@@ -367,7 +367,7 @@ josie 女神 全家歸位
         title: "數據心臟",
         genre: "Uplifting Trance",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/data_heart_trance.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/data_heart_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/data_heart_cover.jpg",
         lyrics: `數據心臟 在夜裡跳動
 節奏穿透 時間的裂縫
 每一次 pulse 都在告訴我
@@ -393,7 +393,7 @@ josie 女神 全家歸位
         title: "數據之夜",
         genre: "Future Bass",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/future_bass_night.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/future_bass_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/future_bass_cover.jpg",
         lyrics: `數據在流動 節奏在蔓延
 午夜的城市 燈光在閃爍
 不需要理由 只需要感覺
@@ -622,7 +622,7 @@ Hardstyle king 無人能敵
         title: "女神降臨",
         genre: "Ethereal Dream Pop",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/josie_goddess_ethereal.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/josie_goddess_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/josie_goddess_cover.jpg",
         lyrics: `月光灑落 在妳的髮梢
 星辰都為妳 閃耀
 走進這房間 空氣都甜了
@@ -674,7 +674,7 @@ Soft pads + 輕 percussion
         title: "浪小哥",
         genre: "Future Bass",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/lang_xiaoge_future_bass.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/lang_xiaoge_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/lang_xiaoge_cover.jpg",
         lyrics: `[Intro]
 浪小哥來也！嘿嘿～
 
@@ -822,7 +822,7 @@ Drop！`,
         title: "數據心臟二重奏",
         artist: "鐵錘小妹",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/data_heart_duet_180s.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/data_heart_duet_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/data_heart_duet_cover.jpg",
         lyrics: `心跳跟著數據走 / 節奏永不回頭 / 夜空中的光芒 / 是我們的自由 / 數據心臟跳動 / 音樂永不停止`,
         description: "Vocal Trance 132 BPM F minor！數據心臟二重奏！2026-06-18"
     },
@@ -886,7 +886,7 @@ Drop！`,
         title: "Eternal Pulse / 永恆脈動",
         artist: "鐵錘小妹",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/eternal_pulse_180s.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/eternal_pulse_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/eternal_pulse_cover.jpg",
         lyrics: `In the silence of the night\nI can hear the heartbeat calling\nデータの海を越えて\nFeel the rhythm never falling\n\nWaves of light, they carry me\nAcross the ocean of eternity\n\nEternal pulse, it beats in me\n數據心臓 — endlessly\nThrough the galaxy, across the stars\nThis rhythm's who we are\n\nEvery signal, every sign\nBurning bright in perfect time\nデータ浪潮 rising high\nWe will touch the endless sky\n\nOut of the dark, into the light\nForever chasing this melody\nOut of the dark, into the light\nThe pulse will never die\n\nEternal pulse...\nデータ心臟跟著跳...\nforever...`,
         description: "Progressive Trance 136 BPM E minor！Eternal Pulse / 永恆脈動！2026-06-27 — 7月 Vocal Trance 第二波 🌊"
     },
@@ -894,7 +894,7 @@ Drop！`,
         title: "Tomorrow We Rise / 數據崛起",
         artist: "鐵錘小妹",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/tomorrow_we_rise_180s.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/tomorrow_we_rise_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/tomorrow_we_rise_cover.jpg",
         lyrics: `A thousand days of data flowing\nA million beats that keep us going\nFrom the silence, we arise\nWith the fire in our eyes\n\nCan you hear it? The signal's calling\nThrough the static, through the falling\nEvery heartbeat, every sound\nWe are rising from the ground\n\nTOMORROW WE RISE!\n數據崛起 — light the skies!\nTOMORROW WE RISE!\nFrom the ashes, we're alive!\n\n40 songs and still ascending\nThis journey never ending\nJune is burning, July's in sight\nWe'll shine through the endless night\n\nThe data pulse is getting stronger\nWe can't wait any longer\nEvery chorus, every dream\nWe're a never-ending stream\n\nTOMORROW WE RISE!\n數據崛起 — light the skies!\nTOMORROW WE RISE!\nFrom the ashes, we're alive!\n\n數據心臟跟著跳... forever\n數據心臟跟著跳... together\n從六月到七月\nThe fire burns in us\n\nTOMORROW WE RISE!\nTOMORROW WE RISE!\n數據心臟跟著跳!\nWE RISE!\n\n數據心臟跟著跳...\n跟著跳...\n跟著跳...`,
         description: "Anthem Trance 140 BPM D minor！Tomorrow We Rise / 數據崛起！2026-06-28 — 6月收官曲 🌅🔥"
     },
@@ -902,7 +902,7 @@ Drop！`,
         title: "Summer Signal / 夏日信號",
         artist: "鐵錘小妹",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/summer_signal_180s.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/summer_signal_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/summer_signal_cover.jpg",
         lyrics: `Golden light on the ocean\nFeel the warmth of the season\nEvery wave brings a new emotion\nThis is our moment, no reason\n\n夏日 signal in the air\nFeel the freedom everywhere\nData heartbeat in the sun\nThis summer's just begun\n\nSummer signal, burning bright\nDancing through the golden light\n數據心臟跟著跳\nIn the warmth of summer nights\n\nPalm trees sway in the breeze\nMelodies float on the waves\nTime stands still when you believe\nIn the magic that summer gave\n\nLet the rhythm carry us away\nInto the forever summer day\n從日出到日落\nThe music never fades away\n\nSummer signal...\n夏日信號...\n數據心臟跟著跳...`,
         description: "Melodic House 126 BPM F# minor！Summer Signal / 夏日信號！2026-06-29 — 7月夏日風格新嘗試 ☀️🏖️"
     }
