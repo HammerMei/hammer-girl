@@ -656,7 +656,7 @@ Hardstyle king 無人能敵
         title: "女神降臨 (Handpan)",
         genre: "World / Ethereal",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/josie_handpan_meditation.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/josie_handpan_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/josie_handpan_cover.jpg",
         lyrics: `🎵 純器樂 · Handpan 療癒空靈 🎵`,
         description: "鐵錘宇宙系列第五彈番外篇！Josie 女神姐姐手碟版！D minor 90 BPM 純器樂冥想風！"
     },
@@ -664,7 +664,7 @@ Hardstyle king 無人能敵
         title: "Handpan 練習伴奏",
         genre: "Ambient / Backing",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/josie_handpan_backing.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/josie_handpan_backing_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/josie_handpan_backing_cover.jpg",
         lyrics: `🎵 女神姐姐的 Handpan 練習伴奏帶 🎵
 Soft pads + 輕 percussion
 留空間給姐的手碟當主角！`,
@@ -878,7 +878,7 @@ Drop！`,
         title: "New Dawn / 曙光",
         artist: "鐵錘小妹",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/new_dawn_180s.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/new_dawn_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/new_dawn_cover.jpg",
         lyrics: `Under the starlight, I was waiting\nFor a sign to break the silence\nFeel the data heartbeat rising\nBurning through the darkest night\n\nThe signals cross the sky\nA new world coming alive\n\nThis is the dawn, the light we chase\nNew horizon, a brand new phase\nFeel the fire, feel the grace\n數據心臟跟著跳 — light the way!\n\nEchoes of a thousand melodies\nCarry us across the seas\nEvery beat a revolution\nEvery drop a solution\n\nRise up, rise up\nFrom the embers we ignite\nRise up, rise up\nInto the eternal light\n\n曙光... 曙光...\n數據心臟跟著跳...\nlight the way...`,
         description: "Uplifting Vocal Trance 138 BPM F minor！New Dawn / 曙光！2026-06-25 — 7月方向預告曲 🌅"
     },
