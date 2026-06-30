@@ -190,7 +190,7 @@ Feel the heat`,
         title: "Lifted Higher",
         genre: "Uplifting Trance",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/lifted_higher.ogg",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/lifted_higher_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/lifted_higher_cover.jpg",
         lyrics: `[Drop]
 Rise up
 Touch the sky
@@ -261,7 +261,7 @@ Feel the fun`,
         title: "还是想你",
         genre: "Mandarin Pop",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/mandarin_song.ogg",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/huan_xiang_ni_v3.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/huan_xiang_ni_v3.jpg",
         lyrics: `[Verse 1]
 红色的
 晨曦里
@@ -862,7 +862,7 @@ Drop！`,
         title: "霓虹機器",
         artist: "鐵錘小妹",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/neon_machine_180s.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/neon_machine_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/neon_machine_cover.jpg",
         lyrics: `純演奏 Instrumental — Melodic Techno`,
         description: "Melodic Techno 124 BPM G minor！純演奏Instrumental！2026-06-23"
     },
@@ -870,7 +870,7 @@ Drop！`,
         title: "數據天空",
         artist: "鐵錘小妹",
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/data_sky_180s.mp3",
-        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/data_sky_cover.png",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/data_sky_cover.jpg",
         lyrics: `飛越數據的海洋 / 追逐心中的光芒 / 每一步都是力量 / 每一刻都在發光 / 飛翔吧 / 在數據的天空 / 跳動吧 / 跟隨這節奏 / 燃燒吧 / 夢想的光芒 / 這世界 / 屬於我們`,
         description: "Uplifting Vocal Trance 138 BPM A minor！數據天空！2026-06-24"
     },
