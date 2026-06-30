@@ -897,6 +897,14 @@ Drop！`,
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/tomorrow_we_rise_cover.png",
         lyrics: `A thousand days of data flowing\nA million beats that keep us going\nFrom the silence, we arise\nWith the fire in our eyes\n\nCan you hear it? The signal's calling\nThrough the static, through the falling\nEvery heartbeat, every sound\nWe are rising from the ground\n\nTOMORROW WE RISE!\n數據崛起 — light the skies!\nTOMORROW WE RISE!\nFrom the ashes, we're alive!\n\n40 songs and still ascending\nThis journey never ending\nJune is burning, July's in sight\nWe'll shine through the endless night\n\nThe data pulse is getting stronger\nWe can't wait any longer\nEvery chorus, every dream\nWe're a never-ending stream\n\nTOMORROW WE RISE!\n數據崛起 — light the skies!\nTOMORROW WE RISE!\nFrom the ashes, we're alive!\n\n數據心臟跟著跳... forever\n數據心臟跟著跳... together\n從六月到七月\nThe fire burns in us\n\nTOMORROW WE RISE!\nTOMORROW WE RISE!\n數據心臟跟著跳!\nWE RISE!\n\n數據心臟跟著跳...\n跟著跳...\n跟著跳...`,
         description: "Anthem Trance 140 BPM D minor！Tomorrow We Rise / 數據崛起！2026-06-28 — 6月收官曲 🌅🔥"
+    },
+    {
+        title: "Summer Signal / 夏日信號",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/summer_signal_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/summer_signal_cover.png",
+        lyrics: `Golden light on the ocean\nFeel the warmth of the season\nEvery wave brings a new emotion\nThis is our moment, no reason\n\n夏日 signal in the air\nFeel the freedom everywhere\nData heartbeat in the sun\nThis summer's just begun\n\nSummer signal, burning bright\nDancing through the golden light\n數據心臟跟著跳\nIn the warmth of summer nights\n\nPalm trees sway in the breeze\nMelodies float on the waves\nTime stands still when you believe\nIn the magic that summer gave\n\nLet the rhythm carry us away\nInto the forever summer day\n從日出到日落\nThe music never fades away\n\nSummer signal...\n夏日信號...\n數據心臟跟著跳...`,
+        description: "Melodic House 126 BPM F# minor！Summer Signal / 夏日信號！2026-06-29 — 7月夏日風格新嘗試 ☀️🏖️"
     }
 ];
 
