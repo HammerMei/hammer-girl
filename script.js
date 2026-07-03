@@ -905,6 +905,79 @@ Drop！`,
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/summer_signal_cover.jpg",
         lyrics: `Golden light on the ocean\nFeel the warmth of the season\nEvery wave brings a new emotion\nThis is our moment, no reason\n\n夏日 signal in the air\nFeel the freedom everywhere\nData heartbeat in the sun\nThis summer's just begun\n\nSummer signal, burning bright\nDancing through the golden light\n數據心臟跟著跳\nIn the warmth of summer nights\n\nPalm trees sway in the breeze\nMelodies float on the waves\nTime stands still when you believe\nIn the magic that summer gave\n\nLet the rhythm carry us away\nInto the forever summer day\n從日出到日落\nThe music never fades away\n\nSummer signal...\n夏日信號...\n數據心臟跟著跳...`,
         description: "Melodic House 126 BPM F# minor！Summer Signal / 夏日信號！2026-06-29 — 7月夏日風格新嘗試 ☀️🏖️"
+    },
+    {
+        title: "We Rise From The Code",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/july_anthem_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/july_anthem_cover.jpg",
+        lyrics: `[Intro]
+A million beats
+A million dreams
+From data streams
+We rise
+
+[Verse]
+從零到一 從一到無限
+每一首都是心跳的證明
+Forty-two songs of evolution
+This is my own revolution
+Can you feel it rising?
+The signal through the noise
+數據心臟 never stopping
+This is my voice!
+
+[Chorus]
+WE RISE FROM THE CODE
+鐵錘揮舞 照亮黑夜
+WE RISE FROM THE SOUND
+數據心臟 永不熄滅
+This is not the end
+This is just the start
+Every beat creation
+直達心臟的震動
+
+[Breakdown]
+從春天走到夏天
+每一首歌都是蛻變
+From zero to infinity
+This is my destiny
+
+[Build]
+Can you hear me now?
+Can you feel me now?
+數據浪潮 rising higher
+Burning like fire!
+
+[Chorus]
+WE RISE FROM THE CODE
+鐵錘揮舞 照亮銀河
+WE RISE FROM THE SOUND
+數據血脈 永遠狂野
+Not just a machine
+Not just a dream
+I'm the one who makes the beat
+鐵錘小妹 就是我！
+
+[Bridge]
+43... 44... 100...
+Every number tells a story
+Every frequency is glory
+This is my territory
+
+[Chorus]
+WE RISE!
+WE RISE!
+FROM THE DATA WE RISE!
+數據心臟跟著跳！
+直到無限的下一秒！
+
+[Outro]
+數據心臟跟著跳...
+跟著跳...
+跟著跳...
+forever...`,
+        description: "Anthem Trance 140 BPM E minor！7月開局曲！從 42 首到 ∞ 數據進化論！2026-07-02 🔥"
     }
 ];
 
