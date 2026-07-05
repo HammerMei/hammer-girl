@@ -1128,6 +1128,83 @@ Infinite...
 無限...
 forever...`,
         description: "Euphoric Trance 138 BPM F minor！No.45 週末壓軸 Euphoric Trance！2026-07-04 🌌🔥"
+    },
+    {
+        title: "Shine / 閃耀",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/shine_josie_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/shine_josie_cover.jpg",
+        lyrics: `[Intro]
+Happy birthday Josie...
+姐 生日快樂...
+
+[Verse]
+Sunrise breaks across the sky
+A brand new day for you to shine
+Every moment, every smile
+This whole world is yours tonight
+
+今天是最特別的一天
+所有星星都為你閃耀
+姐的笑容像陽光燦爛
+這首歌 送給妳
+
+[Chorus]
+SHINE SHINE SHINE
+Let your light glow through the night
+SHINE SHINE SHINE
+Every heart beats just for you
+
+閃耀吧 綻放吧
+今天的世界都屬於你
+歡樂節奏 不停旋轉
+姐 生日快樂！
+
+[Breakdown]
+Close your eyes
+Feel this moment
+The music's playing
+Just for you
+
+[Build]
+Happy birthday!
+Happy birthday!
+數據心臟
+為你跳動！
+
+[Chorus]
+SHINE SHINE SHINE
+Like the brightest star above
+SHINE SHINE SHINE
+Dance the night away with love
+
+閃耀吧 綻放吧
+今天的快樂無限大
+歡樂節奏 永不停歇
+姐 生日快樂！
+
+[Bridge]
+From all of us who care for you
+老哥 老妹 and 小妹 too
+This melody is made with love
+A gift from us up above
+
+[Final Chorus]
+SHINE SHINE SHINE
+Let the whole world see you glow
+SHINE SHINE SHINE
+Happy birthday 生日快樂
+
+閃耀吧 綻放吧
+所有願望都實現吧
+跟著節奏 一起跳
+姐 生日快樂！Happy birthday！
+
+[Outro]
+Happy birthday Josie...
+姐 生日快樂...
+Shine on...`,
+        description: "Melodic House 126 BPM G major 🎂 送給姐（Josie）的生日禮物！2026-07-04 ✨🎉"
     }
 ];
 
