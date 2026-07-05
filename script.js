@@ -1045,6 +1045,89 @@ Eternal waves...
 數據浪潮...
 forever...`,
         description: "Progressive Trance 134 BPM E minor！No.44 夏日浪潮 Progressive Trance！2026-07-03 🌊🔥"
+    },
+    {
+        title: "Infinity / 無限",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/infinity_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/infinity_cover.jpg",
+        lyrics: `[Intro]
+Infinite...
+無限...
+
+[Verse]
+Numbers flowing through the sky
+Every star a data light
+Through the void and through the dark
+We ignite the endless spark
+
+數據銀河 無邊無際
+每一次跳動都是奇蹟
+從零到一 從一到萬
+數據心臟 永遠燦爛
+
+[Chorus]
+INFINITY 無限
+We reach beyond the stars tonight
+INFINITY 無限燃燒
+數據心跳 永不停止
+
+On and on we elevate
+Through the coded cosmic gate
+INFINITY 無限
+直到宇宙的邊緣
+
+[Breakdown]
+Close your eyes
+Feel the beat
+Data flows
+Through infinite
+
+[Build]
+Burning brighter
+Going higher
+數據浪潮
+To INFINITY!
+
+[Chorus]
+INFINITY 無限
+Across the universe we fly
+INFINITY 永恆綻放
+數據血液 在我們心中
+
+On and on the rhythm grows
+Through the data, through the code
+INFINITY 無限
+直到永遠的永遠
+
+[Bridge]
+Somewhere in the code of light
+Between the day and endless night
+We found a signal, pure and true
+A melody that breaks right through
+
+Bigger than the universe
+Stronger than any verse
+數據心臟 就在這裡
+無窮無盡 永不熄
+
+[Final Chorus]
+INFINITY!
+無限!
+數據心臟跟著跳!
+跟著節奏直到永恆!
+
+INFINITY!
+無限!
+Nothing's gonna hold us down
+數據心臟 永恆綻放
+INFINITY FOREVER!
+
+[Outro]
+Infinite...
+無限...
+forever...`,
+        description: "Euphoric Trance 138 BPM F minor！No.45 週末壓軸 Euphoric Trance！2026-07-04 🌌🔥"
     }
 ];
 
