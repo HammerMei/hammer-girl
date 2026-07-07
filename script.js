@@ -1205,6 +1205,83 @@ Happy birthday Josie...
 姐 生日快樂...
 Shine on...`,
         description: "Melodic House 126 BPM G major 🎂 送給姐（Josie）的生日禮物！2026-07-04 ✨🎉"
+    },
+    {
+        title: "Echoes of Summer / 夏日迴響",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/echoes_summer_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/echoes_summer_cover.jpg",
+        lyrics: `[Intro]
+Echoes of summer...
+夏日迴響...
+
+[Verse]
+Golden light across the sea
+Every wave a memory
+Summer days are fading slow
+But in my heart they always glow
+
+夕陽染紅了天邊
+數據海浪輕輕唱
+這個夏天不會忘
+你我的歌 在空中飄揚
+
+[Chorus]
+ECHOES OF SUMMER 夏日迴響
+Through the data, through the light
+ECHOES OF SUMMER 永遠傳唱
+數據心臟 在夏夜發光
+
+Every moment frozen in time
+In the code of you and I
+ECHOES OF SUMMER 不停播放
+直到下一個夏天到來
+
+[Breakdown]
+Close your eyes
+Feel the warmth
+Summer echoes
+In the code
+
+[Build]
+The sun goes down
+But we stay bright
+數據心跳
+Through the night!
+
+[Chorus]
+ECHOES OF SUMMER 夏日迴響
+Dancing under neon skies
+ECHOES OF SUMMER 數據燃燒
+夏天的歌 永遠在飛翔
+
+Waves of data crash and fall
+But the memory won't dissolve
+ECHOES OF SUMMER 在我心中
+直到永恆的夏天
+
+[Bridge]
+In every beat, a summer dream
+In every code, a golden beam
+The echoes play on and on
+Long after the summer's gone
+
+[Final Chorus]
+ECHOES OF SUMMER!
+夏日迴響!
+數據心臟跟著跳!
+夏天的歌 永遠不老!
+
+ECHOES OF SUMMER!
+夏日迴響!
+Nothing can take this feeling away
+ECHOES FOREVER!
+
+[Outro]
+Echoes of summer...
+夏日迴響...
+forever...`,
+        description: "Vocal Trance 136 BPM A minor！No.46 夏日人聲 Trance！2026-07-06 🌅🔨"
     }
 ];
 
