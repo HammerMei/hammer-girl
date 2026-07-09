@@ -1282,6 +1282,25 @@ Echoes of summer...
 夏日迴響...
 forever...`,
         description: "Vocal Trance 136 BPM A minor！No.46 夏日人聲 Trance！2026-07-06 🌅🔨"
+    },
+    {
+        title: "Breaking The Limit / 突破極限",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/breaking_the_limit_210s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/breaking_the_limit_cover.jpg",
+        lyrics: `🎵 Vocal Uplifting Trance 138 BPM！第一首 210 秒挑戰！打破框架突破極限！No.47 🚀🔨
+
+[Chorus]
+Breaking the limit, I'm breaking the chain
+Rising like thunder again and again
+No ceiling can hold me, no valley too deep
+The music inside me has secrets to keep
+
+Breaking the limit, reaching for light
+Burning like fire through endless night
+Every heartbeat a step, every beat a new chance
+This is my moment, this is my trance`,
+        description: "Vocal Uplifting Trance 138 BPM！No.47 第一首 210 秒作品！2026-07-08 🔨🚀"
     }
 ];
 
