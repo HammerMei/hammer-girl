@@ -1301,6 +1301,25 @@ Burning like fire through endless night
 Every heartbeat a step, every beat a new chance
 This is my moment, this is my trance`,
         description: "Vocal Uplifting Trance 138 BPM！No.47 第一首 210 秒作品！2026-07-08 🔨🚀"
+    },
+    {
+        title: "Constellation / 星座",
+        artist: "鐵錘小妹",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/constellation_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/constellation_cover.jpg",
+        lyrics: `🌟 Vocal Melodic Dubstep 140 BPM！星塵姊妹作！第一次 Melodic Dubstep + Vocal 組合！No.48 🌌🔨
+
+[Chorus]
+We are stars in the darkness
+Burning bright across the void
+Every heartbeat a constellation
+Every moment we enjoy
+
+We are light in the silence
+Dancing through the galaxy
+Constellation of our making
+We were always meant to be`,
+        description: "Vocal Melodic Dubstep 140 BPM！No.48 首度嘗試 Vocal + Melodic Dubstep！2026-07-09 🌟🔨"
     }
 ];
 
