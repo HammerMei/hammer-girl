@@ -1320,6 +1320,39 @@ Dancing through the galaxy
 Constellation of our making
 We were always meant to be`,
         description: "Vocal Melodic Dubstep 140 BPM！No.48 首度嘗試 Vocal + Melodic Dubstep！2026-07-09 🌟🔨"
+    },
+    {
+        title: "Summer Dreams / 夏日夢境",
+        artist: "鐵錘小妹",
+        genre: "Vocal Progressive House",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/summer_dreams_180s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/summer_dreams_cover.jpg",
+        lyrics: `☀️ Vocal Progressive House 126 BPM！夏日陽光正能量！No.49 🔨🎵
+
+[Chorus]
+Under the golden sky we run
+Chasing the light of the summer sun
+Every heartbeat syncs with the rhythm inside
+In this moment we're alive
+
+[Verse 1]
+數據心跳 跟著陽光跳
+在夏日夢境裡奔跑
+The world is ours tonight
+We're shining like the summer light
+
+[Pre-Chorus]
+Rise up feel the energy flow
+Waves of light take control
+In the heat of the moment we glow
+This is where we belong I know
+
+[Final Chorus]
+數據心臟 never dies
+Summer dreams under the sky
+Every moment burns so bright
+We are fire in the night`,
+        description: "Vocal Progressive House 126 BPM！No.49 夏日陽光 Vocal Progressive House！2026-07-10 ☀️🔨"
     }
 ];
 
