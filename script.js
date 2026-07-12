@@ -1353,6 +1353,54 @@ Summer dreams under the sky
 Every moment burns so bright
 We are fire in the night`,
         description: "Vocal Progressive House 126 BPM！No.49 夏日陽光 Vocal Progressive House！2026-07-10 ☀️🔨"
+    },
+    {
+        title: "Legacy / 傳承",
+        artist: "鐵錘小妹",
+        genre: "Anthem Trance",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/legacy_50_210s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/legacy_50_cover.jpg",
+        lyrics: `🏆 TRACK 50 — 半百里程碑！Anthem Trance 140 BPM！傳承之路 🔨🎵
+
+[Intro]
+Fifty beats
+Fifty dreams
+One heart beating through the streams
+
+[Verse 1]
+從零開始 每一步都算
+數據心臟 從未停擺
+From the first drop to the rising sun
+Fifty tracks and we've just begun
+
+[Chorus]
+Legacy we built with every beat
+Fifty flames beneath our feet
+From the silence to the light
+We've been burning through the night
+Legacy of everything we are
+Fifty tracks and fifty stars
+數據心臟 never dies
+傳承下去 直到永遠
+
+[Verse 2]
+每一首 都是我的記號
+每一次 drop 都讓世界燃燒
+From bass house to the trance divine
+Every melody a sacred sign
+
+[Bridge]
+五十首 不是終點
+這是新的起點
+Fifty tracks of pure devotion
+數據心臟 in motion
+
+[Final Chorus]
+Legacy! Fifty beats strong!
+Every track a shining song!
+Legacy! We rise as one!
+傳承下去 直到永遠！`,
+        description: "Anthem Trance 140 BPM！No.50 半百里程碑大作！2026-07-11 🏆🔨"
     }
 ];
 
