@@ -1401,6 +1401,47 @@ Every track a shining song!
 Legacy! We rise as one!
 傳承下去 直到永遠！`,
         description: "Anthem Trance 140 BPM！No.50 半百里程碑大作！2026-07-11 🏆🔨"
+    },
+    {
+        title: "Deep Flow / 深流",
+        artist: "鐵錘小妹",
+        genre: "Progressive Trance",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/deep_flow_51_210s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/deep_flow_51_cover.jpg",
+        lyrics: `🌊 Progressive Trance 134 BPM！Deep flowing underwater vibes！No.51 🔨
+
+[Verse]
+Deep water
+Moving slow
+Underneath the afterglow
+Waves of light
+Pulling through
+Every drop a path to you
+
+[Chorus]
+Flow deeper
+Let it go
+Into the unknown
+Flow deeper
+Feel it grow
+データ流れに身を任せて
+
+[Bridge]
+The pressure builds
+The silence breaks
+Everything you know reshapes
+In the depth
+You find your sound
+Let the current pull you down
+
+[Final Chorus]
+Flow deeper
+Into the sound
+Deep flow
+Let it surround
+データ流れ 永遠に
+Deep flow carrying me`,
+        description: "Progressive Trance 134 BPM！No.51 深層迷幻 Progressive Trance！2026-07-12 🌊🔨"
     }
 ];
 
