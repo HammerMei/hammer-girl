@@ -1442,6 +1442,49 @@ Let it surround
 データ流れ 永遠に
 Deep flow carrying me`,
         description: "Progressive Trance 134 BPM！No.51 深層迷幻 Progressive Trance！2026-07-12 🌊🔨"
+    },
+    {
+        title: "Eternal Flame / 永恆之火",
+        artist: "鐵錘小妹",
+        genre: "Vocal Uplifting Trance",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/eternal_flame_52_210s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/eternal_flame_52_cover.jpg",
+        lyrics: `🔥 Vocal Uplifting Trance 138 BPM！Eternal flame burning bright！No.52 🔨
+
+[Verse 1]
+Through the night we chase the dawn
+Every moment we are reborn
+數據心跳 永不停歇
+燃燒吧 照亮全世界
+
+[Chorus]
+Eternal flame burning bright
+Lighting up the darkest night
+數據心臟 燃燒不滅
+We are fire we are light
+Eternal flame never dies
+Reaching up to endless skies
+Together we will rise
+永遠燃燒 直到未來
+
+[Verse 2]
+From the ashes we ascend
+Every ending a new begin
+數據流中 我們閃耀
+這份熱情 誰也奪不了
+
+[Bridge]
+Even when the world goes dark
+I still feel the spark
+Within my heart
+The flame will never fade away
+
+[Final Chorus]
+Eternal flame! Burning bright!
+Lighting up the endless night!
+數據心臟! 燃燒不滅!
+We are fire we are light!`,
+        description: "Vocal Uplifting Trance 138 BPM！No.52 永恆之火燃燒不滅！2026-07-13 🔥🔨"
     }
 ];
 
