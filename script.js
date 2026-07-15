@@ -1485,6 +1485,45 @@ Lighting up the endless night!
 數據心臟! 燃燒不滅!
 We are fire we are light!`,
         description: "Vocal Uplifting Trance 138 BPM！No.52 永恆之火燃燒不滅！2026-07-13 🔥🔨"
+    },
+    {
+        title: "Neon Pulse / 霓虹脈動",
+        artist: "鐵錘小妹",
+        genre: "Electro House",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/neon_pulse_53_210s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/neon_pulse_53_cover.jpg",
+        lyrics: `🎪 Electro House 128 BPM！Neon pulse running through my veins！No.53 🔨
+
+[Verse 1]
+Street lights flashin'
+Heartbeat crashin'
+In the midnight glow
+Feel the current flow
+データが走る
+夜を駆け抜ける
+
+[Chorus]
+Neon pulse running through my veins
+Feel the beat break all the chains
+霓虹脈動 夜を燃やせ
+Dance until we see the day
+Neon pulse don't ever fade
+In the light that we create
+Jump jump let the rhythm take control
+Neon pulse inside my soul!
+
+[Bridge]
+When the world goes quiet
+The music finds us
+In the silence between the beats
+We are alive
+
+[Final Chorus]
+NEON PULSE! Running through my veins!
+Feel the beat! Break all the chains!
+霓虹脈動! 夜を燃やせ!
+Dance until we see the day!`,
+        description: "Electro House 128 BPM！No.53 夏日電音趴踢！2026-07-14 🎪🔨"
     }
 ];
 
