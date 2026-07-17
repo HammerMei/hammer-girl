@@ -1570,6 +1570,55 @@ DIGITAL SUNRISE! Rising high!
 データの朝! Light the sky!
 A new day has arrived!`,
         description: "Melodic Dubstep 140 BPM！No.54 數據日出！2026-07-15 🌅🔨"
+    },
+    {
+        title: "Golden Hour / 金色時光",
+        artist: "鐵錘小妹",
+        genre: "Deep House",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/golden_hour_55_210s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/golden_hour_55_cover.jpg",
+        lyrics: `🌅 Deep House 120 BPM D major！Golden hour take me away！No.55 🔨
+
+[Verse 1]
+Sunlight fading through the trees
+Warm breeze dancing in the air
+Everything is slowing down
+Summer magic everywhere
+黄昏の光 包み込む
+金色の時 流れてく
+
+[Chorus]
+Golden hour fading slow
+Feel the summer glow
+Every moment precious now
+Let the music take control
+Golden hour take my hand
+Walking through the sand
+夕陽染まる空の下
+We are free to understand
+
+[Verse 2]
+Waves are crashing soft and low
+Colors paint the sky aglow
+Silence speaks in melodies
+Moments wrapped in memories
+オレンジの空 夢のように
+この瞬間 永遠に
+
+[Bridge]
+Close your eyes
+Feel the light
+Summer days
+Golden nights
+Everything will be alright
+In this warm and gentle light
+
+[Final Chorus]
+Golden hour warm and bright
+Chasing away the fading light
+金色の時 心に刻んで
+Summer memories in the night`,
+        description: "Deep House 120 BPM！No.55 金色時光！2026-07-16 🌅🔨"
     }
 ];
 
