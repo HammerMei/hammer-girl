@@ -1666,6 +1666,16 @@ ELECTRIC SUMMER! Burning bright!
 週末の夜! Take control!
 Electric summer in my soul!`,
         description: "Vocal Progressive House 126 BPM！No.56 週末電音能量！2026-07-17 ⚡🔨"
+    },
+    {
+        title: "Coin Chaser / 金幣追蹤者 🍄",
+        artist: "鐵錘小妹",
+        genre: "Video Game EDM",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/coin_chaser_57_210s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/coin_chaser_57_cover.jpg",
+        lyrics: `🎮 純器樂 · Video Game EDM · 128 BPM · C major 🎮
+Super Mario 風 EDM Remix！金幣、蘑菇、跳躍全變電音！🍄`,
+        description: "Video Game EDM！No.57 Super Mario 風 EDM Remix！2026-07-18 🍄🎮🔨"
     }
 ];
 
