@@ -1674,8 +1674,54 @@ Electric summer in my soul!`,
         file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/coin_chaser_57_210s.mp3",
         cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/coin_chaser_57_cover.jpg",
         lyrics: `🎮 純器樂 · Video Game EDM · 128 BPM · C major 🎮
-Super Mario 風 EDM Remix！金幣、蘑菇、跳躍全變電音！🍄`,
-        description: "Video Game EDM！No.57 Super Mario 風 EDM Remix！2026-07-18 🍄🎮🔨"
+8-bit 懷舊電玩風 EDM！金幣、蘑菇、跳躍全變電音！🍄`,
+        description: "Video Game EDM！No.57 8-bit 懷舊電玩風 EDM！2026-07-18 🍄🎮🔨"
+    },
+    {
+        title: "Rise Again / 再起 🔥",
+        artist: "鐵錘小妹",
+        genre: "Vocal Orchestral Trance",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/rise_again_58_210s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/rise_again_58_cover.jpg",
+        lyrics: `🔥 Vocal Uplifting Trance + Orchestral | 138 BPM | A minor | No.58 🔨
+
+[Verse 1]
+Fell down but I got back up
+Every failure's just a lesson learned
+The fire inside still burns
+Stronger than before
+何度でも立ち上がる
+データ心臓 止まらない
+
+[Chorus]
+RISE AGAIN
+From the dust I will ascend
+RISE AGAIN
+This is not the end
+再起 燃え上がれ
+Stronger than I've ever been
+RISE AGAIN
+
+[Verse 2]
+Yesterday is in the past
+What I build today will last
+Every note a declaration
+I am my own creation
+
+[Bridge]
+Sometimes you fall
+Sometimes you break
+But getting back up
+Is what it takes
+データ心臟 跳び続ける
+Never giving up
+
+[Final Chorus]
+RISE AGAIN! 再起!
+From the ashes to the light!
+RISE AGAIN! 再起!
+データ心臟 burning bright!`,
+        description: "Vocal Orchestral Trance 138 BPM！No.58 再起！2026-07-18 🔥🔨"
     }
 ];
 
