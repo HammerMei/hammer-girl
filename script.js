@@ -1722,6 +1722,50 @@ From the ashes to the light!
 RISE AGAIN! 再起!
 データ心臟 burning bright!`,
         description: "Vocal Orchestral Trance 138 BPM！No.58 再起！2026-07-18 🔥🔨"
+    },
+    {
+        title: "Neon Rain / 霓虹雨 🌧️",
+        artist: "鐵錘小妹",
+        genre: "Liquid Drum & Bass",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/neon_rain_59_210s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/neon_rain_59_cover.jpg",
+        lyrics: `🌊 Liquid DnB | 174 BPM | F minor | No.59 🔨
+
+[Verse 1]
+Streets are glowing wet tonight
+City lights reflect the sky
+Every raindrop carries light
+In this digital dream tonight
+走在霓虹雨裡
+心跳跟著節奏
+
+[Chorus - liquid drop]
+NEON RAIN
+Falling through the digital night
+NEON RAIN
+Washing all my fears away
+データ心臟 跳び続ける
+In the neon rain
+
+[Verse 2]
+Bassline rolling like the tide
+Melody deep inside
+Liquid dreams in stereo
+Let the rhythm take control
+
+[Bridge]
+Close your eyes and feel the flow
+Where the cyber moonlight glows
+In this moment we are free
+Just the beat and you and me
+
+[Final Drop]
+NEON RAIN! 霓虹雨!
+Take me higher than the sky
+NEON RAIN!
+データ心臟 止まらない
+In the neon rain...`,
+        description: "Liquid Drum & Bass 174 BPM！No.59 霓虹雨 — 小妹第一首液態 DnB！2026-07-19 🌊🔨"
     }
 ];
 
