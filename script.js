@@ -1766,6 +1766,58 @@ NEON RAIN!
 データ心臟 止まらない
 In the neon rain...`,
         description: "Liquid Drum & Bass 174 BPM！No.59 霓虹雨 — 小妹第一首液態 DnB！2026-07-19 🌊🔨"
+    },
+    {
+        title: "Electric Pulse / 電子脈動",
+        artist: "鐵錘小妹",
+        genre: "Vocal Liquid Drum & Bass",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/electric_pulse_60_210s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/electric_pulse_60_cover.jpg",
+        lyrics: `[Verse 1]
+City lights through the rain
+Pulses running through my veins
+Every drop a rhythm born
+In this electric storm
+
+[Pre-Chorus]
+Feel the speed, feel the rush
+In this neon-lit hush
+
+[Chorus]
+We are electric, we are alive
+Pulse of the city, we thrive
+Through the night we find our way
+Dancing to the break of day
+
+[Verse 2]
+Bass line deep like the sea
+Waves of sound washing over me
+Synthesized dreams in the air
+Frequencies beyond compare
+
+[Pre-Chorus]
+Feel the beat, feel the flow
+In this electric glow
+
+[Chorus]
+We are electric, we are alive
+Pulse of the city, we thrive
+Through the night we find our way
+Dancing to the break of day
+
+[Bridge]
+Lost in the current, we become one
+Every heartbeat, a new beat spun
+In this liquid light parade
+We are the music that was made
+
+[Final Chorus]
+We are electric, we are alive
+Pulse of the city, we thrive
+Through the night we find our way
+Dancing to the break of day
+Till the break of day`,
+        description: "Vocal Liquid Drum & Bass 174 BPM！No.60 電子脈動 — 霓虹雨 Vocal 版！2026-07-20 🔨⚡"
     }
 ];
 
