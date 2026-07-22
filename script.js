@@ -1818,6 +1818,58 @@ Through the night we find our way
 Dancing to the break of day
 Till the break of day`,
         description: "Vocal Liquid Drum & Bass 174 BPM！No.60 電子脈動 — 霓虹雨 Vocal 版！2026-07-20 🔨⚡"
+    },
+    {
+        title: "Midnight Drive / 午夜奔馳",
+        artist: "鐵錘小妹",
+        genre: "UK Garage",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/midnight_drive_61_210s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/midnight_drive_61_cover.jpg",
+        lyrics: `[Verse 1]
+Midnight roads are calling me
+Smooth vibrations set me free
+Every turn a melody
+In this city's energy
+
+[Pre-Chorus]
+Feel the sway, feel the groove
+In this rhythm we can move
+
+[Chorus]
+Midnight drive, take me high
+Under neon London sky
+Every beat a golden thread
+Dancing through the words we said
+
+[Verse 2]
+Bassline warm like summer rain
+Every drop a sweet refrain
+City pulses, hearts align
+In this moment, you are mine
+
+[Pre-Chorus]
+Feel the bass, feel the soul
+Let the music take control
+
+[Chorus]
+Midnight drive, take me high
+Under neon London sky
+Every beat a golden thread
+Dancing through the words we said
+
+[Bridge]
+Between the lines, between the beats
+Where the melody and rhythm meets
+Lost in the groove, we find our way
+Dancing till the break of day
+
+[Final Chorus]
+Midnight drive, take me high
+Under neon London sky
+Every beat a golden thread
+Dancing through the words we said
+Till the break of day`,
+        description: "UK Garage 130 BPM！No.61 午夜奔馳 — 小妹第一首 UK Garage！2026-07-21 🔨🌙"
     }
 ];
 
