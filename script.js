@@ -1870,6 +1870,49 @@ Every beat a golden thread
 Dancing through the words we said
 Till the break of day`,
         description: "UK Garage 130 BPM！No.61 午夜奔馳 — 小妹第一首 UK Garage！2026-07-21 🔨🌙"
+    },
+    {
+        title: "Ibiza Sunset / 伊比薩夕陽",
+        artist: "鐵錘小妹",
+        genre: "Balearic House",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/ibiza_sunset_62_210s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/ibiza_sunset_62_cover.jpg",
+        lyrics: `[Verse 1]
+Golden light across the water
+Waves are glowing in the sun
+Every moment feeling warmer
+Like the summer has begun
+
+[Chorus]
+Ibiza sunset, watch it glow
+Balearic rhythm, let it flow
+Feel the warmth upon my skin
+This is where the light begins
+
+[Verse 2]
+Palms are swaying in the breeze
+Music drifting through the air
+Every heartbeat finds its ease
+In this golden evening prayer
+
+[Chorus]
+Ibiza sunset, watch it glow
+Balearic rhythm, let it flow
+Feel the warmth upon my skin
+This is where the light begins
+
+[Bridge]
+As the colors paint the sky
+Orange pink and violet high
+We are dancing on the shore
+Every moment wanting more
+
+[Chorus]
+Ibiza sunset, watch it glow
+Balearic rhythm, let it flow
+Feel the warmth upon my skin
+This is where the light begins`,
+        description: "Balearic House 122 BPM！No.62 伊比薩夕陽 — 小妹第一首 Balearic House！2026-07-22 🔨🌅"
     }
 ];
 
