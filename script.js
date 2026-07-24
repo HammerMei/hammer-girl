@@ -1913,6 +1913,63 @@ Balearic rhythm, let it flow
 Feel the warmth upon my skin
 This is where the light begins`,
         description: "Balearic House 122 BPM！No.62 伊比薩夕陽 — 小妹第一首 Balearic House！2026-07-22 🔨🌅"
+    },
+    {
+        title: "Tropical Dreams / 熱帶夢境",
+        artist: "鐵錘小妹",
+        genre: "Tropical House",
+        file: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/tracks/tropical_dreams_63_210s.mp3",
+        cover: "https://raw.githubusercontent.com/HammerMei/hammer-girl/master/covers/tropical_dreams_63_cover.jpg",
+        lyrics: `[Verse 1]
+Palm trees swaying in the breeze
+Warm sand between my toes
+Crystal water, endless blue
+This is where the summer flows
+
+[Pre-Chorus]
+Feel the rhythm, feel the heat
+Every heartbeat, keep the beat
+Let the melody surround
+Summer vibes are all around
+
+[Chorus]
+Tropical dreams under the sun
+Dancing till the day is done
+Every wave a rhythm free
+This is paradise for me
+Tropical dreams, let it flow
+Where the warm winds blow
+Heart is light and soul is free
+In this tropical dream
+
+[Verse 2]
+Marimba playing, golden light
+Stars are shining through the night
+Bonfire glowing, friends are near
+Summer magic, always here
+
+[Chorus]
+Tropical dreams under the sun
+Dancing till the day is done
+Every wave a rhythm free
+This is paradise for me
+Tropical dreams, let it flow
+Where the warm winds blow
+Heart is light and soul is free
+In this tropical dream
+
+[Bridge]
+Close your eyes and feel the tide
+Let the ocean be your guide
+Every sunset paints the sky
+Summer memories never die
+
+[Chorus]
+Tropical dreams under the sun
+Dancing till the day is done
+Every wave a rhythm free
+This is paradise for me`,
+        description: "Tropical House 110 BPM！No.63 熱帶夢境 — 小妹第一首 Tropical House！2026-07-23 🔨🌴"
     }
 ];
 
